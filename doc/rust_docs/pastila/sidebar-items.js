@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Pastila","A traditional Russian fruit confectionery. It’s a small square of pressed fruit paste and light, airy puffs with a delicate apple flavor"]]};

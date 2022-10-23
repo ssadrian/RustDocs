@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main","Entry point"]],"mod":[["generics",""],["pastila",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["CandyState","States in which a candy can be found as"]]};
